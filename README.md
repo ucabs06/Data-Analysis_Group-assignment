@@ -1,6 +1,6 @@
 # Data-analysis_Group-assignment
 Data Analysis on Yelp Dataset
-Yelp is a website that allows users to share their reviews for businesses and services. Before making purchasing decisions, many consumers refer to reviews. Reviews sum up the collective wisdom of the public and give shape to the wealth of information (Trustpilot, 2018). They are typically considered as important references for both launching a new business and ensuring its sustainability. The main objective of this project is to nudge an aspiring business owner in Arizona in the right direction by implementing data analysis for Yelp Dataset and answering the following research questions.
+Yelp is a website that allows users to share their reviews for businesses and services. Before making purchasing decisions, many consumers refer to reviews. Reviews sum up the collective wisdom of the public and give shape to the wealth of information. They are typically considered as important references for both launching a new business and ensuring its sustainability. The main objective of this project is to nudge an aspiring business owner in Arizona in the right direction by implementing data analysis for Yelp Dataset and answering the following research questions.
 l Which businesses have been getting higher ratings in Arizona?
 l Which businesses receive a lot of VIP Reviewer attention?
 l Can business owners predict the ratings with specified features of the business?
